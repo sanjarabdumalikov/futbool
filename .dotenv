@@ -1,0 +1,6 @@
+DB_NAME = 'futbool1_db'
+DB_USER = 'futbool1_user'
+DB_PASSWORD = 'postgres'
+DB_HOST = 'localhost'
+DB_PORT = 5432
+SECRET_KEY = 'django-insecure-wba7vs!!s_^4wtv(ur!^!6xb*ai-5zqu)$dh+^t$!5cng*5c7x'
